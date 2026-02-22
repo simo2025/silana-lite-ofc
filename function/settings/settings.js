@@ -18,12 +18,12 @@ global.info = {
  pairingNumber : '212614285350',
  figlet: 'silanalite', // create a start console display
  nomorwa : '212614285350',
- nameown : 'NOUREDDINE',
+ nameown : 'MIKEY',
  nomerown : '212614285350',
  packname : 'sticker by ',
  author : '212614285350',
  namebot : 'MIKEY',
- wm : 'SILANA LITE.',
+ wm : 'MIKEY.',
  stickpack : 'Whatsapp',
  stickauth : 'MIKEY',
  jid: '@s.whatsapp.net'
